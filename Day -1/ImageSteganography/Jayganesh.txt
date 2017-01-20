@@ -1,0 +1,11 @@
+public class Comparison
+{
+  public static void main(String args[])
+  {
+    String first = JOptionPane.showInputDialog("Enter first integer:");
+    String second = JOptionPane.showInputDialog("Enter second integer:");          
+
+    int number1 = Integer.parseInt(first);
+    int number2 = Integer.parseInt(second);
+
+    String result = new String();
