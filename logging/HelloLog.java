@@ -4,7 +4,7 @@ import java.io.IOException;
 import java.sql.SQLException;
 import java.util.logging.Logger;
 
-public class log4jExample{
+public class HelloLog{
 
    /* Get actual class name to be printed on */
    static Logger log = Logger.getLogger(log4jExample.class.getName());
