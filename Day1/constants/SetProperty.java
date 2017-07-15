@@ -12,7 +12,7 @@ public class SetProperty {
 
 	try {
 
-		output = new FileOutputStream("C:\\Users\\gs-0851\\Desktop\\config.properties");
+		output = new FileOutputStream("C:\\Users\\Desktop\\config.properties");
 
 		// set the properties value
 		prop.setProperty("NAME", "MIT");
