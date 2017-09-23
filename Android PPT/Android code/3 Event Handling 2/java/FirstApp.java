@@ -1,4 +1,4 @@
-package demo.mit.com.firstapplication;
+package demo.com.firstapplication;
 
 import android.app.Activity;
 import android.os.Bundle;

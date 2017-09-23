@@ -1,4 +1,5 @@
-package com.example.gs_0851.helloworld;
+
+package com.example.helloworld;
 
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;
