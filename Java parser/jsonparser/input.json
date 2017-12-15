@@ -1,0 +1,32 @@
+{
+  "employees":[
+    {
+      "employeeName":"Nikhil",
+      "Designation":"SE",
+      "empId":"101",
+      "salaryComponent":[
+        {
+          "baseSalary":"1000",
+          "hra":"300",
+          "pfDeduct":"200",
+          "spclAllowance":"3000"
+        }
+      ],
+      "takeHomeSal":"4100"
+    },
+    {
+      "employeeName":"Ranjan",
+      "Designation":"SSE",
+      "empId":"102",
+      "salaryComponent":[
+        {
+          "baseSalary":"2000",
+          "hra":"300",
+          "pfDeduct":"200",
+          "spclAllowance":"4000"
+        }
+      ],
+      "takeHomeSal":"6100"
+    }
+  ]
+} 
