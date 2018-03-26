@@ -1,10 +1,12 @@
 /*<applet code=DemoApplet.class  width=800 height=800>
  </applet>
  */
+package com.demo.applet;
 import java.applet.Applet;
 import java.awt.Color;
 import java.awt.Graphics;
 
+@SuppressWarnings("serial")
 public class DemoApplet extends Applet
 {
    public void paint (Graphics g)
